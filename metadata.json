@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Clone",
+  "description": "A modern AI chat interface powered by Google Gemini, featuring streaming responses and a clean UI.",
+  "requestFramePermissions": []
+}
